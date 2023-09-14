@@ -15,7 +15,7 @@
 
 |**문제이름**|**출처**|**주제**|**난도**|
 |------|---|---|---|
-|숫자 문자열과 영단어[https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java]|테스트2|테스트3|테스트3|
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java)|테스트2|테스트3|테스트3|
 |테스트1|테스트2|테스트3|테스트3|
 |테스트1|테스트2|테스트3|테스트3|
 
