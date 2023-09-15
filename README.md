@@ -15,9 +15,9 @@
 
 |**문제이름**|**출처**|**주제**|**난도**|
 |------|---|---|---|
-|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java)|카카오 채용연계형 인턴십|테스트3|Lv. 1|
-|테스트1|테스트2|테스트3|테스트3|
-|테스트1|테스트2|테스트3|테스트3|
+|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=java)|프로그래머스|카카오 채용연계형 인턴십| Lv. 1|
+|[부분 수열의 합](https://www.acmicpc.net/problem/1182)|백준|브루스포스-재귀|실버 2|
+|[Two Dots](https://www.acmicpc.net/problem/16929)|백준|그래프 알고리즘|골드 4|
 
 
 
